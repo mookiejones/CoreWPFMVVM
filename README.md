@@ -1,0 +1,2 @@
+# CoreWPFMVVM
+Standard project template
